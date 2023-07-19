@@ -1,8 +1,6 @@
 # WebApiDemo
 -- git init
 
--- git commit -m "firdt commit"
-
 -- git commit -m "first commit"
 
 -- git add .
